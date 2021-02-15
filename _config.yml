@@ -2,6 +2,7 @@
 title: DDOG 2021
 email: your-email@domain.com
 url: https://ryanbijkerk.github.io/ddog
+baseurl: '/ddog'
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
